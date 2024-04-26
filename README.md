@@ -5,5 +5,6 @@ Trial or micro-service unit of [Rust](https://doc.rust-lang.org/book/ch01-01-ins
 ## Start Up
 
 ```shell
+cargo install --path .
 cargo run
 ```
